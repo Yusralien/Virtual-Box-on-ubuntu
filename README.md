@@ -29,6 +29,6 @@ You can simply run this command and hit enter `sudo apt -f install`
 
 ### Yeayy u got your virtualbox
 
-If you succes on ur virtualbox installation, i wish you all the best.
+If you succes on ur virtualbox installation, i wish you all the best and happy go lucky.
 
 ![success](https://github.com/Yusralien/Virtual-Box-on-ubuntu/blob/main/Screenshot%20from%202023-11-12%2016-59-57.png)
