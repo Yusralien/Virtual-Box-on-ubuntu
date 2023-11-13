@@ -31,4 +31,4 @@ You can simply run this command and hit enter `sudo apt -f install`
 
 If you succes on ur virtualbox installation, i wish you all the best and happy go lucky.
 
-![success](https://github.com/Yusralien/Virtual-Box-on-ubuntu/blob/main/Screenshot%20from%202023-11-12%2016-59-57.png)
+![ssvb](https://github.com/Yusralien/Virtual-Box-on-ubuntu/assets/87742813/5baf0708-dca1-4e59-8d7f-2213598d590a)
