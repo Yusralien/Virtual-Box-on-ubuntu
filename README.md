@@ -17,7 +17,7 @@ Open directory at where your debian ubuntu package was installed. You also can l
 
 Once you found your directory, run the command `sudo dpkg -i (ur file name)` and hit enter.
 
-![sudo-dpkg](https://github.com/Yusralien/Virtual-Box-on-ubuntu/blob/main/Screenshot%20from%202023-11-12%2016-57-19.png)
+![sudodpkg](https://github.com/Yusralien/Virtual-Box-on-ubuntu/assets/87742813/a7e78064-232a-4382-8772-7a01c6323d6e)
 
 ### Error?
 
