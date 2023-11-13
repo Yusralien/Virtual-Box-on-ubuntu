@@ -7,7 +7,7 @@ How to install virtual box on ubuntu 23.10 `easy-peasy`
 
 You can get the VirtualBox from this [link](https://download.virtualbox.org/virtualbox/7.0.12/virtualbox-7.0_7.0.12-159484~Ubuntu~jammy_amd64.deb)
 
-![install](https://github.com/Yusralien/Virtual-Box-on-ubuntu/blob/main/virtualboxdownload.png)
+![cursorvb](https://github.com/Yusralien/Virtual-Box-on-ubuntu/assets/87742813/45ccec85-e294-4211-a623-8585f316bb05)
 
 Download the ubuntu 22.04 version
 
