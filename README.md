@@ -25,7 +25,8 @@ If you somehow got error at dpkg dependencies/package or any error related to "d
 
 You can simply run this command and hit enter `sudo apt -f install`
 
-![error](https://github.com/Yusralien/Virtual-Box-on-ubuntu/blob/main/Screenshot%20from%202023-11-12%2016-58-12.png)
+![apt-f](https://github.com/Yusralien/Virtual-Box-on-ubuntu/assets/87742813/66d229c6-3f24-47fc-9bd8-104dd43583a1)
+
 
 ### Yeayy u got your virtualbox
 
